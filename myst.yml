@@ -1,0 +1,24 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c80fc060-7219-4f6f-9c84-5c18cb3403b0
+  title: CardioAI
+  description: Evento entre EMBS y Singularity
+  keywords:
+    - ML
+    - Heart disease
+    - Data Science
+    - Ingeniería Biomedica
+  authors: 
+    - Samuel Bermudez 
+    - Valeria Florez
+    - Stefania
+    - Isabella Calderón
+  github: https://github.com/sdbermudez/embs_singularity
+  toc:
+    - file: CardioAI.ipynb
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  options:
+     logo: images.png
