@@ -13,3 +13,6 @@ ENV/
 *.log
 .DS_Store
 credenciales.env
+
+# MyST build outputs
+_build
