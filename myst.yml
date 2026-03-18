@@ -16,9 +16,12 @@ project:
     - Isabella Calderón
   github: https://github.com/sdbermudez/embs_singularity
   toc:
+    - file: home.md
     - file: Pasos_preliminares.ipynb
+    - file: CardioAI.ipynb
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
   options:
-    logo: images.png
+    favicon: SINGULARITY_EMBS.ico
+    logo: SINGULARITY_EMBS.png
