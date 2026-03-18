@@ -2,7 +2,6 @@
 version: 1
 project:
   id: 1c17840e-1c7e-4ef7-9b71-5386037bb6d9
-  id: c80fc060-7219-4f6f-9c84-5c18cb3403b0
   title: CardioAI
   description: Evento entre EMBS y Singularity
   keywords:
