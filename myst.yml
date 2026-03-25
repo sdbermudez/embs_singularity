@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  id: c80fc060-7219-4f6f-9c84-5c18cb3403b0
+  id: 1c17840e-1c7e-4ef7-9b71-5386037bb6d9
   title: CardioAI
   description: Evento entre EMBS y Singularity
   keywords:
@@ -12,13 +12,16 @@ project:
   authors: 
     - Samuel Bermudez 
     - Valeria Florez
-    - Stefania
+    - Stefania Donado
     - Isabella Calderón
   github: https://github.com/sdbermudez/embs_singularity
   toc:
+    - file: home.md
+    - file: Pasos_preliminares.ipynb
     - file: CardioAI.ipynb
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
   options:
-     logo: images.png
+    favicon: SINGULARITY_EMBS.ico
+    logo: SINGULARITY_EMBS.png
